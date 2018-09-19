@@ -4,3 +4,24 @@ body{
 .imag{
 	margin-left: 150px;
 }
+.rr{
+	margin-top: 20px;
+}
+.cuerpo{
+	width: 64px;
+	position: fixed;
+}
+.bl{
+	margin-left: 100px;
+	margin-top: 100px;
+}
+.img6{
+	margin-top: 10px;
+	padding-right: 25px;
+}
+.rt{
+	margin-left: 10px;
+}
+.tt{
+	margin: 0 25px 25px 0;
+}
