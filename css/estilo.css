@@ -1,5 +1,5 @@
 body{
-	background-color: gray;
+	background-image: url(t.jpg);
 }
 .imag{
 	margin-left: 150px;
@@ -9,7 +9,6 @@ body{
 }
 .cuerpo{
 	width: 64px;
-	position: fixed;
 }
 .bl{
 	margin-left: 100px;
