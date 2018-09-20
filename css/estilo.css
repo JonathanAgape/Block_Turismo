@@ -1,5 +1,8 @@
 body{
-	background-image: url(t.jpg);
+	background-image: url(../img/tu.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
 }
 .imag{
 	margin-left: 150px;
